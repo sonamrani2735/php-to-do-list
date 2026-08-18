@@ -1,0 +1,15 @@
+# Ignore environment and vendor files
+.env
+/vendor/
+/node_modules/
+.DS_Store
+.idea/
+.vscode/
+*.log
+
+# Composer
+composer.lock
+
+# Logs and runtime files
+logs/
+*.cache
